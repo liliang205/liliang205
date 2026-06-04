@@ -1,0 +1,21 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # 每天自动运行一次（可以根据需要调整，基于 UTC 时间）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许你手动点击按钮随时触发更新
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in wp posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # 💡【把这里替换成你真实的 WordPress feed 地址】
+          feed_list: "https://www.zukaka.com/feed/"
+          # 限制显示的最新文章数量
+          max_post_count: 5
