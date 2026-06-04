@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 
 ## 📡 Latest Technical Articles
 
-<!-- START_BLOG_POSTS -->
-<!-- END_BLOG_POSTS -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
