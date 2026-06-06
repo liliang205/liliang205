@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Qualcomm QCN9274 WiFi 7 Module | Drop-In Compex WLE7002E25/E26/E55/E56 Alternative](https://www.zukaka.com/blog/compex-qcn9274-wle7002-alternative/)
-- [RF Front-End Component Selection for Wireless AP Motherboards](https://www.zukaka.com/blog/wireless-ap-rf-front-end-selection-guide/)
-- [Mass Production Debugging Process for Wireless AP Motherboards](https://www.zukaka.com/blog/wireless-ap-mass-production-test-guide/)
-- [Key RF Design Principles for Wireless AP Motherboard PCB Layout](https://www.zukaka.com/blog/wireless-ap-motherboard-pcb-layout-guide/)
-- [Wireless AP Antenna Design Guide for Optimal Performance](https://www.zukaka.com/blog/wireless-ap-antenna-design-guide/)
+- [Best Compex WiFi Module Alternatives — Qualcomm Mini PCIe &amp; M.2 Replacements](https://www.zukaka.com/blog/best-compex-wifi-module-alternatives-qualcomm-mini-pcie-m-2-replacements/)
+- [Qualcomm CN9274 Module Suppliers — WiFi 7 Modules, Compex-Compatible Replacements](https://www.zukaka.com/blog/qcn9274-module-suppliers/)
+- [WiFi 7 Module Buying Guide — How to Select 802.11be Modules | Zukaka Compex Alternative](https://www.zukaka.com/blog/wifi-7-module-buying-guide-how-to-select-802-11be-modules-zukaka-compex-alternative/)
+- [Compex WiFi 7 M.2 Module Series — WLTB7000 &lpar;2230 Key E&rpar; &amp; WLTE7000 &lpar;3042 Key B&rpar; Guide](https://www.zukaka.com/blog/compex-wifi7-m2-module-series/)
+- [ODM WiFi Module Solutions — Custom WiFi Modules for Industrial OEMs | Zukaka Compex Alternative](https://www.zukaka.com/blog/odm-wifi-module-solutions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
