@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Compex WiFi Module Alternatives — Qualcomm Mini PCIe &amp; M.2 Replacements](https://www.zukaka.com/blog/best-compex-wifi-module-alternatives-qualcomm-mini-pcie-m-2-replacements/)
-- [Qualcomm CN9274 Module Suppliers — WiFi 7 Modules, Compex-Compatible Replacements](https://www.zukaka.com/blog/qcn9274-module-suppliers/)
-- [Compex WiFi 7 M.2 Module Series — WLTB7000 &lpar;2230 Key E&rpar; &amp; WLTE7000 &lpar;3042 Key B&rpar; Guide](https://www.zukaka.com/blog/compex-wifi7-m2-module-series/)
-- [WiFi 7 Module Buying Guide — How to Select 802.11be Modules | Zukaka Compex Alternative](https://www.zukaka.com/blog/wifi-7-module-buying-guide-how-to-select-802-11be-modules-zukaka-compex-alternative/)
-- [ODM WiFi Module Solutions — Custom WiFi Modules for Industrial OEMs | Zukaka Compex Alternative](https://www.zukaka.com/blog/odm-wifi-module-solutions/)
+- [Enterprise WiFi 6 Module for AP Auxiliary Connectivity – Deployment &amp; Optimization](https://www.zukaka.com/blog/enterprise-ap-auxiliary-connectivity/)
+- [Dual Band WiFi Module for Smart Cameras – Stable Video Transmission](https://www.zukaka.com/blog/dual-band-wifi-module-camera/)
+- [WiFi 6 Module for City Edge Gateways – High-Concurrency Multi-Device Access](https://www.zukaka.com/blog/city-edge-gateway-multi-device-access/)
+- [Anti Interference WiFi Module for Industrial Environments – Link Stability](https://www.zukaka.com/blog/anti-interference-wifi-module/)
+- [Low Latency WiFi Module for AGV/AMR – Real-Time Communication](https://www.zukaka.com/blog/agv-amr-low-latency-communication/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
