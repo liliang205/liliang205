@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise WiFi 6 Module for AP Auxiliary Connectivity – Deployment &amp; Optimization](https://www.zukaka.com/blog/enterprise-ap-auxiliary-connectivity/)
-- [Dual Band WiFi Module for Smart Cameras – Stable Video Transmission](https://www.zukaka.com/blog/dual-band-wifi-module-camera/)
-- [WiFi 6 Module for City Edge Gateways – High-Concurrency Multi-Device Access](https://www.zukaka.com/blog/city-edge-gateway-multi-device-access/)
-- [Anti Interference WiFi Module for Industrial Environments – Link Stability](https://www.zukaka.com/blog/anti-interference-wifi-module/)
-- [Low Latency WiFi Module for AGV/AMR – Real-Time Communication](https://www.zukaka.com/blog/agv-amr-low-latency-communication/)
+- [Industrial Gateway Remote Communication Case Study – 5G/LTE Module for SCADA](https://www.zukaka.com/blog/industrial-gateway-remote-communication/)
+- [Hotel Control WiFi Module – Smart Room Management &amp; System Integration](https://www.zukaka.com/blog/hotel-room-control-connectivity/)
+- [Home Gateway Mesh Optimization with WiFi 6 Module – Coverage &amp; Roaming](https://www.zukaka.com/blog/home-gateway-mesh-optimization-with-wifi-6-module-coverage-roaming/)
+- [High Density WiFi 6 Module for Meeting Rooms – Handling 50+ Concurrent Users](https://www.zukaka.com/blog/high-density-meeting-room-access/)
+- [Industrial IoT WiFi Module for Factory Data Collection – Wireless Deployment](https://www.zukaka.com/blog/factory-data-collection-wireless/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
