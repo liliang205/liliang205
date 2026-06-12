@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Industrial Gateway Remote Communication Case Study – 5G/LTE Module for SCADA](https://www.zukaka.com/blog/industrial-gateway-remote-communication/)
-- [Hotel Control WiFi Module – Smart Room Management &amp; System Integration](https://www.zukaka.com/blog/hotel-room-control-connectivity/)
-- [Home Gateway Mesh Optimization with WiFi 6 Module – Coverage &amp; Roaming](https://www.zukaka.com/blog/home-gateway-mesh-optimization-with-wifi-6-module-coverage-roaming/)
-- [High Density WiFi 6 Module for Meeting Rooms – Handling 50+ Concurrent Users](https://www.zukaka.com/blog/high-density-meeting-room-access/)
-- [Industrial IoT WiFi Module for Factory Data Collection – Wireless Deployment](https://www.zukaka.com/blog/factory-data-collection-wireless/)
+- [High-Reliability WiFi Module for Public Alert Systems – Always-On Connectivity](https://www.zukaka.com/blog/high-reliability-wifi-module-for-public-alert-systems-always-on-connectivity/)
+- [PLC Wireless Retrofit – Modernizing Legacy Equipment with WiFi Modules](https://www.zukaka.com/blog/plc-wireless-retrofit-modernizing-legacy-equipment-with-wifi-modules/)
+- [Medical WiFi Module – Compliance-Grade Wireless Upgrade for Healthcare Devices](https://www.zukaka.com/blog/medical-device-wireless-upgrade/)
+- [High Power WiFi Module + FEM for Long Range Coverage – Extending Reach](https://www.zukaka.com/blog/long-range-coverage-enhancement/)
+- [Industrial WiFi Module Case Studies](https://www.zukaka.com/blog/industrial-wifi-module-case-studies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
