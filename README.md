@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Industrial Wireless PCBA Customization: Design &amp; Manufacturing Guide](https://www.zukaka.com/blog/industrial-wireless-pcba-customization-guide/)
+- [WiFi 6 vs 6G Wireless Bridge: Which is Better for Outdoor Industrial Use?](https://www.zukaka.com/blog/wifi6-vs-6g-wireless-bridge-comparison/)
+- [Industrial Wireless Bridge for Oil Pipeline Inspection](https://www.zukaka.com/blog/industrial-wireless-bridge-oil-pipeline-inspection/)
 - [WiFi Module Case Studies Hub – Real-World IoT Deployments](https://www.zukaka.com/blog/wifi-module-case-studies-hub/)
 - [Wireless AP Motherboard Design Guide: Antenna to Production](https://www.zukaka.com/blog/wireless-ap-motherboard-complete-design-guide/)
-- [WiFi 7 &lpar;802.11be&rpar; Guide: Chipsets, Modules &amp; Applications](https://www.zukaka.com/blog/wifi7-802-11be-complete-guide/)
-- [WPA3 WiFi Module for Enterprise &amp; Industrial – Enhanced Security Access](https://www.zukaka.com/blog/wpa3-secure-access/)
-- [WiFi 6 to WiFi 7 Module Upgrade Path – Future-Proofing Product Roadmaps](https://www.zukaka.com/blog/wifi6-to-wifi7-upgrade-path/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
