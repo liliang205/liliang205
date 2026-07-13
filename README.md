@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Outdoor Wireless access point &amp; Base Station Solutions: Complete Deployment](https://www.zukaka.com/blog/outdoor-wireless-ap-base-station-solutions-zh/)
+- [Outdoor Wireless access point &amp; Base Station Solutions: Complete Deployment](https://www.zukaka.com/blog/outdoor-wireless-ap-base-station-solutions/)
 - [Mobile Mesh Devices for Industrial Wireless Networks: Deployment Guide](https://www.zukaka.com/blog/mobile-mesh-devices-industrial-wireless-networks/)
 - [Global Industrial Wireless Communication Market: Regional Analysis &amp; Opportunities](https://www.zukaka.com/blog/global-industrial-wireless-communication-market/)
 - [Wireless AP Motherboard OEM/ODM Services: Comparison, Process &amp; Solutions](https://www.zukaka.com/blog/wireless-ap-motherboard-oem-odm-services-guide/)
