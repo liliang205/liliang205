@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Mining Wireless Solutions for Underground Operations | Industrial Mesh Networks](https://www.zukaka.com/blog/mining-underground-wireless-solutions/)
+- [Industrial Wireless Solutions for Power &amp; Utilities](https://www.zukaka.com/blog/power-utilities-wireless-solutions/)
+- [Industrial Wireless Solutions for Logistics &amp; Warehouse](https://www.zukaka.com/blog/logistics-warehouse-wireless-solutions/)
+- [Industry 4.0 Wireless Communication: Enabling Smart Manufacturing](https://www.zukaka.com/blog/industry-4-0-wireless-communication/)
 - [Wireless Video Surveillance Solutions: Design, Deployment &amp; Optimization](https://www.zukaka.com/blog/wireless-video-surveillance-solutions/)
-- [Industrial IoT &lpar;IIoT&rpar; Wireless Communication: Protocols, Solutions &amp; Applications](https://www.zukaka.com/blog/industrial-iot-wireless-communication/)
-- [Outdoor Wireless access point &amp; Base Station Solutions: Complete Deployment](https://www.zukaka.com/blog/outdoor-wireless-ap-base-station-solutions/)
-- [Mobile Mesh Devices for Industrial Wireless Networks: Deployment Guide](https://www.zukaka.com/blog/mobile-mesh-devices-industrial-wireless-networks/)
-- [Global Industrial Wireless Communication Market: Regional Analysis &amp; Opportunities](https://www.zukaka.com/blog/global-industrial-wireless-communication-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
