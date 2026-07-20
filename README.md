@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Mining Wireless Solutions for Underground Operations | Industrial Mesh Networks](https://www.zukaka.com/blog/mining-underground-wireless-solutions/)
+- [Mining Wireless Solutions for Underground Operations | Industrial Mesh Networks](https://www.zukaka.com/solutions/mining-underground-wireless-solutions/)
 - [Industrial Wireless Solutions for Power &amp; Utilities](https://www.zukaka.com/blog/power-utilities-wireless-solutions/)
 - [Industrial Wireless Solutions for Logistics &amp; Warehouse](https://www.zukaka.com/blog/logistics-warehouse-wireless-solutions/)
 - [Industry 4.0 Wireless Communication: Enabling Smart Manufacturing](https://www.zukaka.com/blog/industry-4-0-wireless-communication/)
