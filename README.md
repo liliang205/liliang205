@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Mining Wireless Solutions for Underground Operations | Industrial Mesh Networks](https://www.zukaka.com/solutions/mining-underground-wireless-solutions/)
-- [Industrial Wireless Solutions for Power &amp; Utilities](https://www.zukaka.com/blog/power-utilities-wireless-solutions/)
-- [Industrial Wireless Solutions for Logistics &amp; Warehouse](https://www.zukaka.com/blog/logistics-warehouse-wireless-solutions/)
-- [Industry 4.0 Wireless Communication: Enabling Smart Manufacturing](https://www.zukaka.com/blog/industry-4-0-wireless-communication/)
-- [Wireless Video Surveillance Solutions: Design, Deployment &amp; Optimization](https://www.zukaka.com/blog/wireless-video-surveillance-solutions/)
+- [YNWPTP 6-N RapidFire 6GHz Outdoor PtP Bridge &lpar;N-Type Connector&rpar;](https://www.zukaka.com/product/ynwptp-6-n-rapidfire/)
+- [YNWPTP 6-25 RapidFire 6GHz Outdoor long-range backhaul Wireless PtP Bridge](https://www.zukaka.com/product/ynwptp-6-25-rapidfire-6ghz-outdoor-long-range-backhaul-wireless-ptp-bridge/)
+- [YNW 6ax 6GHz 802.11ax Outdoor Wireless Device &lpar;N-Type Connector&rpar;](https://www.zukaka.com/product/ynw-6ax/)
+- [YNW 6-90ax 6GHz 802.11ax 90-degree Sector Base Station high-density PtMP](https://www.zukaka.com/product/ynw-6-90ax/)
+- [YNW 6-23ax 6GHz 802.11ax High-Gain integrated 23dBi Long Range Outdoor Wireless Bridge](https://www.zukaka.com/product/ynw-6-23ax/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
