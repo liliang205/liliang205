@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [YNWPTP 6-N RapidFire 6GHz Outdoor PtP Bridge &lpar;N-Type Connector&rpar;](https://www.zukaka.com/product/ynwptp-6-n-rapidfire/)
-- [YNWPTP 6-25 RapidFire 6GHz Outdoor long-range backhaul Wireless PtP Bridge](https://www.zukaka.com/product/ynwptp-6-25-rapidfire-6ghz-outdoor-long-range-backhaul-wireless-ptp-bridge/)
-- [YNW 6ax 6GHz 802.11ax Outdoor Wireless Device &lpar;N-Type Connector&rpar;](https://www.zukaka.com/product/ynw-6ax/)
-- [YNW 6-90ax 6GHz 802.11ax 90-degree Sector Base Station high-density PtMP](https://www.zukaka.com/product/ynw-6-90ax/)
-- [YNW 6-23ax 6GHz 802.11ax High-Gain integrated 23dBi Long Range Outdoor Wireless Bridge](https://www.zukaka.com/product/ynw-6-23ax/)
+- [YNW 5-15ac 5GHz 802.11ac 2×2 MIMO PTP/PTMP Outdoor Wireless Bridge](https://www.zukaka.com/product/ynw-5-15ac/)
+- [YNW 5-20ac — 5GHz 802.11ac 500+ Mbps IP66 Outdoor Wireless Bridge](https://www.zukaka.com/product/ynw-5-20ac-5ghz-802-11ac-500-mbps-ip66-outdoor-wireless-bridge/)
+- [YNW 5-90ac 5GHz 802.11ac Sector Base Station QCA 9563 + QCA 9882](https://www.zukaka.com/product/ynw-5-90ac/)
+- [YNW 5-20ax  5GHz 802.11ax wireless backhaul IP67 PTP and PTMP Outdoor Wireless Bridge](https://www.zukaka.com/product/ynw-5-20ax/)
+- [YNW 5-23ax  5GHz 802.11ax Outdoor Wireless Bridge](https://www.zukaka.com/product/ynw-5-23ax/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
