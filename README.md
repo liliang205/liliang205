@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 <!-- BLOG-POST-LIST:START -->
 - [High-Energy Laser Drone Defense System: A Complete Guide to C-UAS Laser Striking](https://www.zukaka.com/blog/high-energy-laser-drone-defense-system-a-complete-guide-to-c-uas-laser-striking/)
 - [Industrial Wireless Communication Solution for Vietnam’s Complex Terrain: 6GHz Bridge Deployment Guide for Tropical Rainforests and Mountainous Regions](https://www.zukaka.com/blog/vietnam-complex-terrain-wireless-solution/)
-- [Industrial Wireless Communication in Siberia’s Extreme Cold: -50°C Long-Range 6GHz Bridge Deployment Guide](https://www.zukaka.com/blog/industrial-wireless-communication-in-siberias-extreme-cold-50c-long-range-6ghz-bridge-deployment-guide/)
+- [Industrial Wireless Communication in Siberia’s Extreme Cold: -50°C Long-Range 6GHz Bridge Deployment Guide](https://www.zukaka.com/blog/siberia-extreme-cold-wireless-solution/)
 - [Western China Highland Long-Distance Wireless Communication Solution: 5GHz Bridge Deployment Guide for Xinjiang &amp; Tibet at High Altitude](https://www.zukaka.com/blog/western-china-highland-long-distance-wireless-communication-solution-5ghz-bridge-deployment-guide-for-xinjiang-tibet-at-high-altitude/)
 - [Industrial Wireless Bridge Band Selection Guide: 6GHz vs 5GHz Deep Dive &lpar;600MHz Spectrum Advantage&rpar;](https://www.zukaka.com/blog/6ghz-vs-5ghz-band-selection-guide/)
 <!-- BLOG-POST-LIST:END -->
