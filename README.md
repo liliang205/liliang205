@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [YNW-6402MB Backpack Tactical MESH Radio | 96Mbps 20-60km](https://www.zukaka.com/product/ynw-6402mb/)
+- [YNW-6401MH Handheld Tactical MESH Radio | 96Mbps 20-40km](https://www.zukaka.com/product/ynw-6401mh/)
+- [YNW-6401JZ MIMO 2×2 10+km Broadband Wireless MESH Ad-Hoc Network Equipment](https://www.zukaka.com/product/ynw-6401jz/)
+- [YNW-5800 Intelligent Ad-Hoc MESH Wireless Transmission](https://www.zukaka.com/product/ynw-5800/)
 - [High-Energy Laser Drone Defense System: A Complete Guide to C-UAS Laser Striking](https://www.zukaka.com/blog/high-energy-laser-drone-defense-system-a-complete-guide-to-c-uas-laser-striking/)
-- [Industrial Wireless Communication Solution for Vietnam’s Complex Terrain: 6GHz Bridge Deployment Guide for Tropical Rainforests and Mountainous Regions](https://www.zukaka.com/blog/vietnam-complex-terrain-wireless-solution/)
-- [Industrial Wireless Communication in Siberia’s Extreme Cold: -50°C Long-Range 6GHz Bridge Deployment Guide](https://www.zukaka.com/blog/siberia-extreme-cold-wireless-solution/)
-- [Western China Highland Long-Distance Wireless Communication Solution: 5GHz Bridge Deployment Guide for Xinjiang &amp; Tibet at High Altitude](https://www.zukaka.com/blog/western-china-highland-long-distance-wireless-communication-solution-5ghz-bridge-deployment-guide-for-xinjiang-tibet-at-high-altitude/)
-- [Industrial Wireless Bridge Band Selection Guide: 6GHz vs 5GHz Deep Dive &lpar;600MHz Spectrum Advantage&rpar;](https://www.zukaka.com/blog/6ghz-vs-5ghz-band-selection-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
