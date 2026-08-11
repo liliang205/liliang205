@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [YNW-6502BK Emergency Video Surveillance MESH Camera | 30X PTZ](https://www.zukaka.com/product/mesh-ad-hoc-network/ynw-6502bk-emergency-video-surveillance-mesh-camera-30x-ptz/)
+- [YNW-6501MH 1.4G COFDM Handheld Broadband MESH Radio | 60Mbps 64-node mesh](https://www.zukaka.com/product/ynw-6501mh/)
+- [YNW-6410CZ Vehicle-mounted MESH Radio | 10W 80Mbps 20-60km](https://www.zukaka.com/product/ynw-6410cz/)
 - [YNW-6402MB Backpack Tactical MESH Radio | 96Mbps 20-60km](https://www.zukaka.com/product/ynw-6402mb/)
 - [YNW-6401MH Handheld Tactical MESH Radio | 96Mbps 20-40km](https://www.zukaka.com/product/ynw-6401mh/)
-- [YNW-6401JZ MIMO 2×2 10+km Broadband Wireless MESH Ad-Hoc Network Equipment](https://www.zukaka.com/product/ynw-6401jz/)
-- [YNW-5800 Intelligent Ad-Hoc MESH Wireless Transmission](https://www.zukaka.com/product/ynw-5800/)
-- [High-Energy Laser Drone Defense System: A Complete Guide to C-UAS Laser Striking](https://www.zukaka.com/blog/high-energy-laser-drone-defense-system-a-complete-guide-to-c-uas-laser-striking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
