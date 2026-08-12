@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [YNW-6502BK Emergency Video Surveillance MESH Camera | 30X PTZ](https://www.zukaka.com/product/mesh-ad-hoc-network/ynw-6502bk-emergency-video-surveillance-mesh-camera-30x-ptz/)
-- [YNW-6501MH 1.4G COFDM Handheld Broadband MESH Radio | 60Mbps 64-node mesh](https://www.zukaka.com/product/ynw-6501mh/)
-- [YNW-6410CZ Vehicle-mounted MESH Radio | 10W 80Mbps 20-60km](https://www.zukaka.com/product/ynw-6410cz/)
-- [YNW-6402MB Backpack Tactical MESH Radio | 96Mbps 20-60km](https://www.zukaka.com/product/ynw-6402mb/)
-- [YNW-6401MH Handheld Tactical MESH Radio | 96Mbps 20-40km](https://www.zukaka.com/product/ynw-6401mh/)
+- [YNW-7520A-BCJ backpack/vehicle/base-station tactical MESH Ad-Hoc radio 43dBm &lpar;2x10W&rpar; 200+km](https://www.zukaka.com/product/ynw-7520a-bcj-backpack-vehicle-base-station-tactical-mesh-ad-hoc-radio-43dbm-2x10w-200km/)
+- [NW-7510A-BCJ Manpack/Vehicle/Station Tactical Broadband Wireless MESH Ad-Hoc Network Equipment](https://www.zukaka.com/product/ynw-7510a-bcj/)
+- [NW-7504A-MB Manpack Tactical Broadband Wireless MESH Ad-Hoc Network Equipment](https://www.zukaka.com/product/ynw-7504a-mb/)
+- [YNW-7502A-MH Handheld Tactical Broadband Wireless MESH Ad-Hoc Network Equipment](https://www.zukaka.com/english1/ynw-7502a-mh-handheld-tactical-broadband-wireless-mesh-ad-hoc-network-equipment/)
+- [YNW-7502A-JZ Airborne Tactical Broadband Wireless MESH Ad-Hoc Network Equipment](https://www.zukaka.com/product/ynw-7502a-jz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
