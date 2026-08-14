@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Handheld Ad-hoc Network Terminal: 1.4G Non-Line-of-Sight Individual-Soldier Mesh Penetration, 90Mbps](https://www.zukaka.com/solutions/handheld-mesh-terminal/)
+- [Vehicle-Mounted On-the-Move MESH: 1.4G Long-Range 30-50km, Mobile Command and Fleet Ad-hoc Networking](https://www.zukaka.com/solutions/vehicle-mesh-omm/)
+- [Portable Command &amp; Dispatch Platform: Integrated On-site Command and Ad-hoc Visual Dispatch](https://www.zukaka.com/solutions/portable-command-dispatch/)
+- [UAV Mesh Ad-hoc Networking: Integrated Air-to-Ground Video/Data Transmission, 1.4G Aerial Relay 10km+](https://www.zukaka.com/solutions/drone-mesh-radio/)
 - [Backpack Ad-hoc Networking Radio: Portable Emergency Communication Relay, 1.4G Over Mountains and Obstacles](https://www.zukaka.com/solutions/backpack-mesh-radio/)
-- [WIFI Mesh Ad-hoc Networking Devices All-Scenario Application Guide: 1.4G Dedicated Network Over Mountains and Obstacles](https://www.zukaka.com/solutions/wifi-mesh-adhoc-overview/)
-- [YNW-7520A-BCJ backpack/vehicle/base-station tactical MESH Ad-Hoc radio 43dBm &lpar;2x10W&rpar; 200+km](https://www.zukaka.com/product/ynw-7520a-bcj-backpack-vehicle-base-station-tactical-mesh-ad-hoc-radio-43dbm-2x10w-200km/)
-- [NW-7510A-BCJ Manpack/Vehicle/Station Tactical Broadband Wireless MESH Ad-Hoc Network Equipment](https://www.zukaka.com/product/ynw-7510a-bcj/)
-- [NW-7504A-MB Manpack Tactical Broadband Wireless MESH Ad-Hoc Network Equipment](https://www.zukaka.com/product/ynw-7504a-mb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
