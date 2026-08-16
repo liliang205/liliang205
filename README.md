@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Maritime Rescue &amp; Ship Squadron Communication Solution: 1.4G Mesh Anti-Multipath Beyond-Line-of-Sight Networking 50-150km](https://www.zukaka.com/blog/haishang-chuandui-zuzuwang/)
+- [Forest Fire Prevention Command &amp; Dispatch System: In High Mountains and Dense Forest, a 1.4G Mesh Weaves a  Visible Prevention-and-Control Network](https://www.zukaka.com/blog/senlin-fanghuo-zuzu/)
+- [Fire-Rescue On-Site Command &amp; Firefighter Communications Solution: Get Into the Fire, Get the Video Back](https://www.zukaka.com/blog/firefighter-fighting-communications/)
+- [Emergency Rescue &amp; Earthquake Relief Wireless Communication Solution: When the Public Network Fails, 1.4G Mesh Carries the On-Site Network](https://www.zukaka.com/blog/emergency-rescue-wireless-ad-hoc-network/)
 - [Handheld Ad-hoc Network Terminal: 1.4G Non-Line-of-Sight Individual-Soldier Mesh Penetration, 90Mbps](https://www.zukaka.com/solutions/handheld-mesh-terminal/)
-- [Vehicle-Mounted On-the-Move MESH: 1.4G Long-Range 30-50km, Mobile Command and Fleet Ad-hoc Networking](https://www.zukaka.com/solutions/vehicle-mesh-omm/)
-- [Portable Command &amp; Dispatch Platform: Integrated On-site Command and Ad-hoc Visual Dispatch](https://www.zukaka.com/solutions/portable-command-dispatch/)
-- [UAV Mesh Ad-hoc Networking: Integrated Air-to-Ground Video/Data Transmission, 1.4G Aerial Relay 10km+](https://www.zukaka.com/solutions/drone-mesh-radio/)
-- [Backpack Ad-hoc Networking Radio: Portable Emergency Communication Relay, 1.4G Over Mountains and Obstacles](https://www.zukaka.com/solutions/backpack-mesh-radio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
