@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I am passionate about next-generation wireless tec
 ## 📡 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Wireless Advanced Features and Operations Manual](https://www.zukaka.com/solutions/wireless-advanced-features-and-operations-manual/)
+- [Mesh Radio Network Selection: 1.4 GHz versus 5.8 GHz, and the Technical Boundary between 802.11s and MANET](https://www.zukaka.com/solutions/mesh-network-1-4g-vs-5-8g-802-11s-manet/)
 - [Differences Between Wireless Bridges and Wireless Video Transmission Devices: A Full-Scenario Selection Guide Based on Zukaka Qualcomm QCA Series WiFi Modules](https://www.zukaka.com/blog/wifi-module-wireless-video-transmission/)
 - [Replacing Leaky Feeder in Coal Mines: Intrinsically Safe MESH for Video, Tracking &amp; Gas](https://www.zukaka.com/solutions/coal-mine-wireless-network-coverage/)
 - [Wind Farm Wireless Network: Remote Turbine Monitoring &amp; Video Inspection via MESH](https://www.zukaka.com/solutions/wind-farm-wireless-network/)
-- [Driving School Exam Wireless Roaming: Zero-Loss Fast Handover for Road Test Routes](https://www.zukaka.com/solutions/driving-school-exam-wireless-roaming/)
-- [Port &amp; Terminal Wireless Coverage: Container Yard MESH Network for Cranes &amp; RTGs](https://www.zukaka.com/solutions/port-terminal-wireless-coverage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
